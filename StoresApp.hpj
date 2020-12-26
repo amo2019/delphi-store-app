@@ -1,0 +1,17 @@
+[OPTIONS]
+HCW=0
+CONTENTS=con.sqhqp
+TITLE=StoresApp
+COPYRIGHT=© 2001 ... Your company
+DEFFONT=MS Sans Serif,8,1
+CHARSET=1
+LCID=0x0409
+CNT=.\storesapp.cnt
+HLP=.\storesapp.hlp
+BMROOT=C:\Documents and Settings\Administrator\My Documents\Help
+[FILES]
+.\storesapp.rtf
+[WINDOWS]
+Main="",(530,29,758,1143),28420,(255,255,255),(192,192,192),f2
+[CONFIG]
+BrowseButtons()

@@ -1,0 +1,36 @@
+-$A+
+-$B-
+-$C+
+-$D+
+-$E-
+-$F-
+-$G+
+-$H+
+-$I+
+-$J+
+-$K-
+-$L+
+-$M-
+-$N+
+-$O+
+-$P+
+-$Q-
+-$R-
+-$S-
+-$T-
+-$U-
+-$V+
+-$W-
+-$X+
+-$YD
+-$Z1
+-cg
+-AWinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+-H+
+-W+
+-$M16384,1048576
+-K4194304
+-U"C:\Program Files\Borland\Delphi6\Lib;C:\Program Files\Borland\Delphi6\Bin;C:\Program Files\Borland\Delphi6\Imports;C:\Program Files\Borland\Delphi6\Projects\Bpl;D:\Addict3\Source\d6;C:\Program Files\FutureSoft"
+-O"C:\Program Files\Borland\Delphi6\Lib;C:\Program Files\Borland\Delphi6\Bin;C:\Program Files\Borland\Delphi6\Imports;C:\Program Files\Borland\Delphi6\Projects\Bpl;D:\Addict3\Source\d6;C:\Program Files\FutureSoft"
+-I"C:\Program Files\Borland\Delphi6\Lib;C:\Program Files\Borland\Delphi6\Bin;C:\Program Files\Borland\Delphi6\Imports;C:\Program Files\Borland\Delphi6\Projects\Bpl;D:\Addict3\Source\d6;C:\Program Files\FutureSoft"
+-R"C:\Program Files\Borland\Delphi6\Lib;C:\Program Files\Borland\Delphi6\Bin;C:\Program Files\Borland\Delphi6\Imports;C:\Program Files\Borland\Delphi6\Projects\Bpl;D:\Addict3\Source\d6;C:\Program Files\FutureSoft"

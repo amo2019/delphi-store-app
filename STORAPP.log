@@ -1,0 +1,19 @@
+Creating the help file StoresApp.hlp.
+
+Processing C:\Program Files\Borland\Delphi6\Demos\Db\MastApp\StoresApp.rtf
+
+    HC4009: Warning: 
+	The Topic ID "StoresApp" specified in the Project files as the Default Topic does not exist.
+Resolving keywords...
+Adding bitmaps...
+14	Topics
+21	Jumps
+36	Keywords
+1	Bitmap
+
+
+Created C:\Program Files\Borland\Delphi6\Demos\Db\MastApp\StoresApp.hlp, 22,566 bytes
+Bitmaps: 32 bytes
+Compile time: 0 minutes, 0 seconds
+0 notes, 1 warning
+

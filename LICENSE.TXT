@@ -1,0 +1,53 @@
+FutureSoft
+
+FutureSoft NO-NONSENSE LICENSE STATEMENT 
+AND LIMITED WARRANTY
+
+IMPORTANT - READ CAREFULLY
+This license statement and limited warranty constitutes a
+legal agreement ("License Agreement") between you (either
+as an individual or a single entity) and "FutureSoft" for 
+the software product ("Software") identified above, including 
+any software,media, and accompanying on-line or printed documentation.
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE,
+YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF
+THE LICENSE AGREEMENT.  If you are the original purchaser
+of the Software and you do not agree with the terms and
+conditions of the License Agreement, promptly return the
+unused Software to the place from which you obtained it for
+a full refund.
+
+Upon your acceptance of the terms and conditions of the 
+License Agreement, Inprise grants you the right to use the 
+Software in the manner provided below.
+
+This Software is owned by FutureSoft and is
+protected by copyright law and international copyright
+treaty.  Therefore, you must treat this Software like any
+other copyrighted material (e.g., a book), except that you
+may either make one copy of the Software solely for backup
+or archival purposes or transfer the Software to a single
+hard disk provided you keep the original solely for backup
+or archival purposes.
+
+You may transfer the Software and documentation on a
+permanent basis provided you retain no copies and the
+recipient agrees to the terms of the License Agreement.
+Except as provided in the License Agreement, you may not
+transfer, rent, lease, lend, copy, modify, translate,
+sublicense, time-share or electronically transmit or
+receive the Software, media or documentation.  You
+acknowledge that the Software in source code form remains a
+confidential trade secret of FutureSoft
+and therefore you agree not to modify the Software or
+attempt to reverse engineer, decompile, or disassemble the
+Software, except and only to the extent that such activity
+is expressly permitted by applicable law notwithstanding
+this limitation.
+
+If you have purchased an upgrade version of the Software,
+it constitutes a single product with the FutureSoft
+that you upgraded.  You may use or transfer the upgrade
+version of the Software only in accordance with the License
+Agreement.
