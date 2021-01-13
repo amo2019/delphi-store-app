@@ -1,2 +1,2 @@
 # delphi-store-app
-Medical Store App
+Delohi Medical Store App
